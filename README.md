@@ -98,3 +98,4 @@ VALUES
     (16, 'Bruce', 'Dickinson', 'Vocals', 4),
     (17, 'Nicko', 'McBrain', 'Drums', 4),
     (18, 'Janick', 'Gers', 'Guitar', 4);
+    (18, 'Janick', 'Gers', 'Guitar', 4);
